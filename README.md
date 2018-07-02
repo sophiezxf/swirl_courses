@@ -18,7 +18,7 @@ Here are our current offerings, organized by level of difficulty:
 
 #### Intermediate
 
-- **Regression Models**: The basics of regression modeling in R
+- **Regression Models**: The basics of regression modeling in R.
 - **Getting and Cleaning Data**: dplyr, tidyr, lubridate, oh my!
 
 #### Advanced
